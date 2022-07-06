@@ -4,8 +4,42 @@ h1, h2{
 }
 html{
     background-color: black;
+    font-family: 'Nunito', sans-serif;
+    max-width: 100%;
 }
 .whitebox{
     background-color: white;
     padding: 2vw;
+}
+.picfloat{
+    max-width: 100%;
+    float: left;
+}
+.pix{
+    max-width: 100%;
+}
+.pic{
+    max-width: 100%;
+}
+.picsmall{
+    max-width: 30%;
+}
+.picverysmall{
+    max-width: 5%;
+}
+.footer{
+    text-align: center;
+    color: gold;
+}
+.little{
+    color: silver;
+    display: inline-block;
+    max-width: 100%;
+    font-size: 23px;
+}
+a{
+    text-decoration: none;
+}
+.footer a{
+    color: gold;
 }
