@@ -1,0 +1,11 @@
+h1, h2{
+    text-align: center;
+    color: gold;
+}
+html{
+    background-color: black;
+}
+.whitebox{
+    background-color: white;
+    padding: 2vw;
+}
